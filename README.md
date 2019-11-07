@@ -10,7 +10,7 @@
 3.	Ketika anda sudah memasukan nilai input, maka akan langsung muncul data nilai random.
 
 	Contoh hasil nilai random yang kurang dari 0.5 :
-![loop1](https://user-images.githubusercontent.com/57025775/68372159-e2ba9680-0172-11ea-84f7-270bd8dbe910.jpg) 
+![random1](https://user-images.githubusercontent.com/57025775/68374257-1c8d9c00-0177-11ea-843e-7f6475a49875.jpg)
 
 ![loop2](https://user-images.githubusercontent.com/57025775/68372206-fbc34780-0172-11ea-8429-9184cb964f5c.jpg) 
 
