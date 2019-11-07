@@ -12,9 +12,7 @@
 	Contoh hasil nilai random yang kurang dari 0.5 :
 ![random1](https://user-images.githubusercontent.com/57025775/68374257-1c8d9c00-0177-11ea-843e-7f6475a49875.jpg)
 
-![loop2](https://user-images.githubusercontent.com/57025775/68372206-fbc34780-0172-11ea-8429-9184cb964f5c.jpg) 
-
-
+![random2](https://user-images.githubusercontent.com/57025775/68374536-a6d60000-0177-11ea-97df-d853d190a2ba.jpg)
 
 
 	ALUR ALGORITMA PROGRAM LATIHAN_2
