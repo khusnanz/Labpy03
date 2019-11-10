@@ -88,4 +88,4 @@
 ![laba](https://user-images.githubusercontent.com/57025775/68372376-493fb480-0173-11ea-8f1a-10cb12d40f43.jpg) 
 
 
-Semoga bermanfaat :simplesmile:
+Semoga bermanfaat :clap:
