@@ -1,6 +1,6 @@
 
 
-  ALUR ALGORITMA PROGRAM LATIHAN_1
+  #ALUR ALGORITMA PROGRAM LATIHAN_1
 
 1.	Masukan nilai input, nilai input ini berfungsi untuk menampilkan banyak data. Anda bisa memasukan nilai berapa saja.
 2.	Dengan menggunakan fungsi random, yaitu fungsi yang akan menampilkan angka dibawah 0.5 secara acak. Fungsi random sudah otomatis ditampilkan. Masukkan syntak dibawah untuk membangkitkan nilai random().
@@ -14,8 +14,17 @@
 
 ![random2](https://user-images.githubusercontent.com/57025775/68374536-a6d60000-0177-11ea-97df-d853d190a2ba.jpg)
 
+  code program:
+       import random
+     jumlah = int(input("\nMasukan Nilai :"))
 
-	ALUR ALGORITMA PROGRAM LATIHAN_2
+     for i in range(jumlah):
+        i=random.uniform(00.0,0.5)      #menampilkan nilai random 0,5
+        print("Data ke =: =>",i)
+     print("\nSelesai")
+
+
+	#ALUR ALGORITMA PROGRAM LATIHAN_2
 
 1.	Masukan bilangan
 2.	Program akan terus mengulang untuk meminta anda memasukan bilangan selama bilangan yg anda masukan tersebut tidak sesuai syarat berhenti.
@@ -29,7 +38,7 @@
 
 
 
-	ALUR ALGORITMA PROGRAM_1
+#ALUR ALGORITMA PROGRAM_1
 
 1.	Modal awal pengusaha sebesar 100000000
 2.	Untuk menghitung laba perbulan maka diinputkan terlebih dahulu sebesar presentase keuntungan perbulan, dimana pada bulan ke-1 dan ke-2 belum mendapatkan laba, bulan ke-3 dan ke-4 mendapat laba sebesar 1%, di bulan ke-5,ke-6 dan ke-7 mendapatkan laba sebesar 5%, lalu di bulan ke-8 mendapat lama 2%.
