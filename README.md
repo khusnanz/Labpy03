@@ -8,6 +8,9 @@
 ![random image](https://user-images.githubusercontent.com/57025775/68372088-c4549b00-0172-11ea-815c-4cc82a8f5f3d.jpg) 
 
 3.	Ketika anda sudah memasukan nilai input, maka akan langsung muncul data nilai random.
+  
+  flowchart program :
+  
 
   code program:
   
