@@ -1,6 +1,6 @@
 
 
-  #ALUR ALGORITMA PROGRAM LATIHAN_1
+  # ALUR ALGORITMA PROGRAM LATIHAN_1
 
 1.	Masukan nilai input, nilai input ini berfungsi untuk menampilkan banyak data. Anda bisa memasukan nilai berapa saja.
 2.	Dengan menggunakan fungsi random, yaitu fungsi yang akan menampilkan angka dibawah 0.5 secara acak. Fungsi random sudah otomatis ditampilkan. Masukkan syntak dibawah untuk membangkitkan nilai random().
@@ -28,7 +28,7 @@
   
 
 
-	#ALUR ALGORITMA PROGRAM LATIHAN_2
+ # ALUR ALGORITMA PROGRAM LATIHAN_2
 
 1.	Masukan bilangan
 2.	Program akan terus mengulang untuk meminta anda memasukan bilangan selama bilangan yg anda masukan tersebut tidak sesuai syarat berhenti.
@@ -53,7 +53,7 @@
 
   
 
-#ALUR ALGORITMA PROGRAM_1
+  # ALUR ALGORITMA PROGRAM_1
 
 1.	Modal awal pengusaha sebesar 100000000
 2.	Untuk menghitung laba perbulan maka diinputkan terlebih dahulu sebesar presentase keuntungan perbulan, dimana pada bulan ke-1 dan ke-2 belum mendapatkan laba, bulan ke-3 dan ke-4 mendapat laba sebesar 1%, di bulan ke-5,ke-6 dan ke-7 mendapatkan laba sebesar 5%, lalu di bulan ke-8 mendapat lama 2%.
@@ -86,3 +86,6 @@
 	Contoh hasil prigram :
 
 ![laba](https://user-images.githubusercontent.com/57025775/68372376-493fb480-0173-11ea-8f1a-10cb12d40f43.jpg) 
+
+
+Semoga bermanfaat :simple_smile:
