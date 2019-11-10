@@ -9,9 +9,9 @@
 
 3.	Ketika anda sudah memasukan nilai input, maka akan langsung muncul data nilai random.
   
-  flowchart program :
+  flowchart program latihan_1:
   
-  ![flow1](https://user-images.githubusercontent.com/57025775/68543633-3daaf280-03ec-11ea-9b09-dab990a1ee94.jpg)
+  ![f1](https://user-images.githubusercontent.com/57025775/68543698-4ea83380-03ed-11ea-8e0d-0b8d8981bd08.jpg)
 
 
   code program:
