@@ -52,6 +52,11 @@
           break
     print("Bilangan terbesar adalah : ", max)
 
+   Flowchart program latihan_2 :
+   
+   ![F2](https://user-images.githubusercontent.com/57025775/68544326-91213e80-03f4-11ea-9c25-759e1522f9b5.jpg)
+
+
 	Contoh hasil program :
 
 ![loopmax](https://user-images.githubusercontent.com/57025775/68372266-18f81600-0173-11ea-94ba-ef009f43fc8e.jpg) 
