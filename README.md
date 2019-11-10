@@ -1,6 +1,6 @@
 
 
-  <H1>ALUR ALGORITMA PROGRAM LATIHAN_1<\H1>
+  #ALUR ALGORITMA PROGRAM LATIHAN_1
 
 1.	Masukan nilai input, nilai input ini berfungsi untuk menampilkan banyak data. Anda bisa memasukan nilai berapa saja.
 2.	Dengan menggunakan fungsi random, yaitu fungsi yang akan menampilkan angka dibawah 0.5 secara acak. Fungsi random sudah otomatis ditampilkan. Masukkan syntak dibawah untuk membangkitkan nilai random().
@@ -9,7 +9,7 @@
 
 3.	Ketika anda sudah memasukan nilai input, maka akan langsung muncul data nilai random.
 
-code program:
+  code program:
   
        import random
      jumlah = int(input("\nMasukan Nilai :"))
@@ -35,7 +35,7 @@ code program:
 3.	Pengulangan akan berhenti ketikan anda memasukan angka 0 (nol). Dimana angka 0 ini adalah syarat agar pengulangan berhenti.
 4.	Selanjutnya akan menampilkan bilangan terbesar dari semua bilangan yang diinput. Untuk mencari bilangan terbesar gunakan fungsi max().
 
-Code Program :
+  Code Program :
   
     print("\nProgram untuk menampilkan bilangan terbesaar dari n bilangan yang dimasukan\n")
     max = 0
