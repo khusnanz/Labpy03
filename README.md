@@ -58,8 +58,7 @@
 1.	Modal awal pengusaha sebesar 100000000
 2.	Untuk menghitung laba perbulan maka diinputkan terlebih dahulu sebesar presentase keuntungan perbulan, dimana pada bulan ke-1 dan ke-2 belum mendapatkan laba, bulan ke-3 dan ke-4 mendapat laba sebesar 1%, di bulan ke-5,ke-6 dan ke-7 mendapatkan laba sebesar 5%, lalu di bulan ke-8 mendapat lama 2%.
 3.	Dan selanjutnya, hasil laba perbulan akan ditampilkan. Disini anda bias menggunakan looping berupa for/while untuk menampilkan kembali jumlah laba yang telah dihitung berdasarkan presentasinya.
-4.	Terakhir akan menampilkan jumlah laba secara keseluruhan yang didapat dengan menggunakan sum .(laba)
-
+4.	Terakhir akan menampilkan jumlah laba secara keseluruhan yang didapat dengan rumus penjumlahan (total)  .
   Code Program :
   
     a = 100000000
