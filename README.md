@@ -1,6 +1,6 @@
 
 
-  #ALUR ALGORITMA PROGRAM LATIHAN_1
+  <H1>ALUR ALGORITMA PROGRAM LATIHAN_1<\H1>
 
 1.	Masukan nilai input, nilai input ini berfungsi untuk menampilkan banyak data. Anda bisa memasukan nilai berapa saja.
 2.	Dengan menggunakan fungsi random, yaitu fungsi yang akan menampilkan angka dibawah 0.5 secara acak. Fungsi random sudah otomatis ditampilkan. Masukkan syntak dibawah untuk membangkitkan nilai random().
