@@ -11,7 +11,8 @@
   
   flowchart program latihan_1:
   
-  ![f1](https://user-images.githubusercontent.com/57025775/68543698-4ea83380-03ed-11ea-8e0d-0b8d8981bd08.jpg)
+  ![randomnew](https://user-images.githubusercontent.com/57025775/70382548-b3c15b80-1990-11ea-8801-bb315b815167.jpg)
+
 
 
   code program:
