@@ -55,7 +55,7 @@
 
    Flowchart program latihan_2 :
    
-   ![F2](https://user-images.githubusercontent.com/57025775/68544326-91213e80-03f4-11ea-9c25-759e1522f9b5.jpg)
+  ![latihan2](https://user-images.githubusercontent.com/57025775/70382570-fb47e780-1990-11ea-952f-9e41d5eb94b7.jpg)
 
 
 	Contoh hasil program :
